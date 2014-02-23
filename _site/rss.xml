@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Jekyll Bootstrap</title>
+        <description>Jekyll Bootstrap - Name Lastname</description>
+        <link>http://username.github.io</link>
+        <link>http://username.github.io</link>
+        <lastBuildDate>2014-02-23T17:06:36+08:00</lastBuildDate>
+        <pubDate>2014-02-23T17:06:36+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>你好世界</title>
+                <description></description>
+                <link>http://username.github.io/2014/02/23/</link>
+                <guid>http://username.github.io/2014/02/</guid>
+                <pubDate>2014-02-23T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
